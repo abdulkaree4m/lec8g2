@@ -1,9 +1,17 @@
 body{
     background-color: blue;
+
 }
 .nav{
     background-color: plum;
     padding: 24px;
 
+
+    
+}
+.contect{
+    background-color: khaki;
+    height: 200px;
+    bottom: 5px;
 
 }
